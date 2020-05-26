@@ -6,7 +6,7 @@ This repository is a boilerplate Django project for quickly getting started.
 
 Commands:
 
-1. Rename your project with `python manage.py rename <yourprojectname> <newprojectname>`
+1. Rename your project with `python manage.py rename <newprojectname>`
 
 This project includes:
 
